@@ -64,6 +64,13 @@ These pathways support an inflammation-driven mechanism in IAA compared to NIAA.
 
 ---
 
+## Repository Structure
+
+- `scripts/` – R scripts used for transcriptomic and differential expression analysis
+- `results/` – Processed results, DEG tables, pathway enrichment outputs, and plots
+- `docs/` – Final MSc thesis document
+
+
 ## Repository Contents
 - `Ballgown_Analysis.R` – Differential expression analysis script  
 - `DEG_summary_table.csv` – Summary of DEGs with statistics  
@@ -87,6 +94,7 @@ The analysis was performed in **R** using the following key packages:
 The main analysis script is provided in `Ballgown_Analysis.R`.
 
 ---
+
 
 ## Author
 **Nighitha T N**  
